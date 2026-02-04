@@ -1,9 +1,16 @@
-# MERN Auth Dashboard
+# PrimeTrade.ai Assignment
 
-## Quick Start
+MERN Auth Dashboard Project
 
-### Backend:
-```bash
-cd backend
-npm install
-npm run dev
+## Tech Stack
+- MongoDB
+- Express
+- React
+- Node.js
+- Docker
+
+## Features
+- Authentication
+- Protected Routes
+- Dashboard
+- JWT Auth
